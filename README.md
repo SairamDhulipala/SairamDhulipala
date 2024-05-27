@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Sairam Dhulipala</h1>
 <h3 align="center">A passionate full stack developer and a machine learning enthusiast from Amrita Vishwa Vidyapeetham, Chennai</h3>
 
-- 🔭 I’m currently working on **FACE GENERATION USING AUDIO**
+- 🔭 I’m currently working on **generating faces on the basis of the given audio.**
 
-- 🌱 I’m currently learning **layer 2 and layer 3 networking**
+- 🌱 I’m currently learning **layer 2 and layer 3 networking along with GAN.**
 
 - 💬 Ask me about **image processing, MERN stack development, and computer science in general !!**
 
-- 📫 How to reach me **Email: dvsairam2003@gmail.com LinkedIn: www.linkedin.com/in/dvsairam**
+- 📫 How to reach me: **Email: dvsairam2003@gmail.com LinkedIn: www.linkedin.com/in/dvsairam**
 
-- 📄 Know about my experiences [Resume Here!](https://drive.google.com/file/d/1Wst7hCugi5-S06j6nOmVgzhY07QBQFY4/view?usp=sharing)
+- 📄 Know about my experiences [here!!](https://drive.google.com/file/d/1Wst7hCugi5-S06j6nOmVgzhY07QBQFY4/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -21,5 +21,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sairamdhulipala&show_icons=true&locale=en&layout=compact" alt="sairamdhulipala" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sairamdhulipala&show_icons=true&locale=en" alt="sairamdhulipala" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sairamdhulipala&" alt="sairamdhulipala" /></p>
