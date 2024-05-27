@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sairam Dhulipala</h1>
-<h3 align="center">A passionate full stack developer and a machine learning enthusiast from Amrita Vishwa Vidyapeetham, Chennai</h3>
+<h3 align="center">A passionate full stack developer and a machine learning enthusiast from Amrita Vishwa Vidyapeetham, Chennai.</h3>
 
 - 🔭 I’m currently working on **generating faces on the basis of the given audio.**
 
@@ -20,4 +20,3 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sairamdhulipala&show_icons=true&locale=en&layout=compact" alt="sairamdhulipala" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sairamdhulipala&show_icons=true&locale=en" alt="sairamdhulipala" /></p>
