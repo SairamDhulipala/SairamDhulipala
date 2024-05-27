@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **Email: dvsairam2003@gmail.com LinkedIn: www.linkedin.com/in/dvsairam**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1Wst7hCugi5-S06j6nOmVgzhY07QBQFY4/view?usp=sharing](https://drive.google.com/file/d/1Wst7hCugi5-S06j6nOmVgzhY07QBQFY4/view?usp=sharing)
+- 📄 Know about my experiences [Resume Here!](https://drive.google.com/file/d/1Wst7hCugi5-S06j6nOmVgzhY07QBQFY4/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
